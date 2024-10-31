@@ -1382,7 +1382,7 @@ namespace PluginPile.Unmaintained.BWTool {
       // helper_subregion_china
       //
       helper_subregion_china.FormattingEnabled = true;
-      helper_subregion_china.Items.AddRange(new object[] { "0 None", "1 Anhui", "2 Beijing", "3 Chongqing", "4 Fujian", "5 Gansu", "6 Guangdong", "7 Guangxi", "8 Guizhou", "9 Hainan", "10 Hebei", "11 Heilongjiang", "12 Henan", "13 Hubei", "14 Hunan", "15 Jiangsu", "16 Jiangxi", "17 Jilin", "18 Liaoning", "19 Inner Mongolia", "20 Ningxia", "21 Qinghai", "22 Shaanxi", "23 Shandong", "24 Shanghai", "25 Shanxi", "26 Sichuan", "27 Tianjin", "28 Xinjiang", "29 Tibet", "30 Yunnan", "31 Zhejiang", "32 Hong Kong", "33 Macau" });
+      helper_subregion_china.Items.AddRange(new object[] { "0 None", "1 Anhui", "2 Beijing", "3 Chongqing", "4 Fujian", "5 Gansu", "6 Guangdong", "7 Guangxi", "8 Guizh-Hansou", "9 Hainan", "10 Hebei", "11 Heilongjiang", "12 Henan", "13 Hubei", "14 Hunan", "15 Jiangsu", "16 Jiangxi", "17 Jilin", "18 Liaoning", "19 Inner Mongolia", "20 Ningxia", "21 Qinghai", "22 Shaanxi", "23 Shandong", "24 Shanghai", "25 Shanxi", "26 Sichuan", "27 Tianjin", "28 Xinjiang", "29 Tibet", "30 Yunnan", "31 zh-Hansejiang", "32 Hong Kong", "33 Macau" });
       helper_subregion_china.Location = new Point(327, 210);
       helper_subregion_china.Margin = new Padding(4, 3, 4, 3);
       helper_subregion_china.Name = "helper_subregion_china";
