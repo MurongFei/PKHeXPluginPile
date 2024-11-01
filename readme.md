@@ -117,4 +117,4 @@ The default language for this project is English but there appears to be interes
 | ja  | Japanese            | No        |                                                                                                                                                                    |
 | ko  | Korean              | No        |                                                                                                                                                                    |
 | zh-Hans  | Simplified Chinese  | Partial   | [wubinwww](https://github.com/wubinwww), [ppllouf](https://github.com/ppllouf), [easyworld](https://github.com/easyworld), [ZiYuKing](https://github.com/ZiYuKing) |
-| zh-Hans2 | Traditional Chinese | No        |                                                                                                                                                                    |
+| zh-Hant | Traditional Chinese | No        |                                                                                                                                                                    |
